@@ -1,0 +1,71 @@
+.baner{
+    margin: 0;
+    padding: 0;
+    height: 540px !important;
+    background-image: url(../assets/img/navbar/baner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background: transparent !important;
+}
+
+.navbar-brand{
+    margin-left:1%;
+}
+.navbar-nav{
+    display: grid;
+    align-items: center;
+    height: 24px;
+    gap: 15%;
+    background: transparent !important;
+    padding: 0 4% 0 3.6% !important;
+    width: 100% !important;
+    /* background: red !important; */
+}
+
+.container-fluid{
+    padding: 0 !important;
+    padding-top: 13.5px !important;
+    background: transparent !important;
+    display: flex;
+    align-items: center;
+    gap: 112px;
+    
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.41) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+h1{
+    font-size: 40px;
+    font-family: SF Pro Bold;
+    color: rgb(255, 255, 255) !important;
+}
+
+.txt-prin{
+    padding-top: 10%;
+    padding-left: 1%;
+
+}
+
+.aple{
+    margin-top: 4.5%;
+}
+
+.logo-aple{
+    width: 120px !important;
+    height: 40px !important;
+}
+
+.menu2{
+    /* background: rgba(102, 51, 153, 0.167) !important; */
+    /* padding-left: -3% !important; */
+    padding-right: 1% !important;
+    margin-right: 1% !important;
+}
