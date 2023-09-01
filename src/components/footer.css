@@ -1,4 +1,72 @@
+/* .izqfooter{
+    display: flex;
+    gap: 5%;
+}
+
+.loguitos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anio{
+    color: white;
+    font-size: 12px;
+    display: flex;
+    align-items: center;            <!--vertical-->
+    justify-content: center;   <!--Horizantal-->
+}
+
+.embers{
+    width: 100px;
+    height: 15px;
+} */
+
 .footer{
     height: 70px;
     background: black;
+}
+
+.contenedor-principal{
+
+    height: 70px;
+}
+
+.izqfooter{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5%;
+    padding: 0% 0 0 2.4% !important;
+    
+}
+
+.embers{
+    width: 100px;
+    height: 15px;
+}
+
+.anio{
+    color: white;
+    font-size: 12px;
+    font-family: FS Pro Light;
+/* background: yellow; */
+}
+.derfooter{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5%;
+}
+
+.textofooter{
+    color: white;
+    font-size: 10px;
+    font-family: FS Pro Light;
+}
+
+.icons{
+    margin: 15.7px;
 }

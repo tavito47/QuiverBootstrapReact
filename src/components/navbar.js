@@ -1,8 +1,10 @@
 import React from 'react'
 import './navbar.css';
+import './stylesgloba.css';
+
 import loguito from "../assets/img/navbar/logo.png"
 import aple from "../assets/img/navbar/appApple.png"
-import './stylesgloba.css';
+
 
 
 export default function navbar() {
