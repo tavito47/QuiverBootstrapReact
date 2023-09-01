@@ -1,0 +1,43 @@
+/**ABOUT**/
+.contendor-about{
+    max-width: 1014px;
+    margin: auto;
+}
+
+
+
+/* .fondoDer{
+    background-color: #ffdf00;
+    height: 420px;
+    width: 720px !important;
+} */
+/* .fondoIzq { */
+   /*  background-image: url('../../assets/img/section/section2.1.png');  *//* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen de fondo */
+   /*  height: 420px;
+    width: 720px !important; */
+   /*  background-size: cover; */ /* Ajusta el tamaño de la imagen para cubrir toda la columna */
+    /* background-repeat: no-repeat;  *//* Evita que la imagen se repita */
+    /* background-position: center center;  *//* Centra la imagen en la columna */
+  /* } */
+ /* 
+  .titA{
+    font-size: 16px;
+    font-family: SF Pro Bold;
+  }
+
+  .parIzq{
+    font-size: 16px;
+    font-family: SF Pro Light;
+  }
+
+  .titM{
+    color: white;
+    font-size: 16px;
+    font-family: SF Pro Bold;
+  }
+
+  .parDer{
+    color: white;
+    font-size: 16px;
+    font-family: SF Pro Light;
+  } */

@@ -1,27 +1,3 @@
-/* .izqfooter{
-    display: flex;
-    gap: 5%;
-}
-
-.loguitos{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.anio{
-    color: white;
-    font-size: 12px;
-    display: flex;
-    align-items: center;            <!--vertical-->
-    justify-content: center;   <!--Horizantal-->
-}
-
-.embers{
-    width: 100px;
-    height: 15px;
-} */
-
 .footer{
     height: 70px;
     background: black;

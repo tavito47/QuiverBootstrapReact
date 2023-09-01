@@ -1,71 +1,66 @@
-.baner{
-    margin: 0;
-    padding: 0;
-    height: 540px !important;
-    background-image: url(../assets/img/navbar/baner.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.baner {
+  margin: 0;
+  padding: 0;
+  height: 540px !important;
+  background-image: url(../assets/img/navbar/baner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-nav{
-    background: transparent !important;
+nav {
+  background: transparent !important;
 }
 
-.navbar-brand{
-    margin-left:1%;
+.navbar-brand {
+  margin-left: 1%;
 }
-.navbar-nav{
-    display: grid;
-    align-items: center;
-    height: 24px;
-    gap: 15%;
-    background: transparent !important;
-    padding: 0 4% 0 3.6% !important;
-    width: 100% !important;
-    /* background: red !important; */
-}
-
-.container-fluid{
-    padding: 0 !important;
-    padding-top: 13.5px !important;
-    background: transparent !important;
-    display: flex;
-    align-items: center;
-    gap: 112px;
-    
+.navbar-nav {
+  display: grid;
+  align-items: center;
+  height: 24px;
+  gap: 15%;
+  background: transparent !important;
+  padding: 0 4% 0 3.6% !important;
+  width: 100% !important;
 }
 
-.nav-link{
-    color: rgba(255, 255, 255, 0.41) !important;
-    margin: 0 !important;
-    padding: 0 !important;
+.container-fluid {
+  padding: 0 !important;
+  padding-top: 1px !important;
+  background: transparent !important;
+  display: flex;
+  align-items: center;
+  gap: 112px;
 }
 
-h1{
-    font-size: 40px;
-    font-family: SF Pro Bold;
-    color: rgb(255, 255, 255) !important;
+.nav-link {
+  color: rgba(255, 255, 255, 0.41) !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-.txt-prin{
-    padding-top: 10%;
-    padding-left: 1%;
-
+h1 {
+  font-size: 40px;
+  font-family: SF Pro Bold;
+  color: rgb(255, 255, 255) !important;
 }
 
-.aple{
-    margin-top: 4.5%;
+.txt-prin {
+  padding-top: 8.4%;
+  padding-left: 1%;
 }
 
-.logo-aple{
-    width: 120px !important;
-    height: 40px !important;
+.aple {
+  margin-top: 4.5%;
 }
 
-.menu2{
-    /* background: rgba(102, 51, 153, 0.167) !important; */
-    /* padding-left: -3% !important; */
-    padding-right: 1% !important;
-    margin-right: 1% !important;
+.logo-aple {
+  width: 120px !important;
+  height: 40px !important;
+}
+
+.menu2 {
+  padding-right: 1% !important;
+  margin-right: 1% !important;
 }
